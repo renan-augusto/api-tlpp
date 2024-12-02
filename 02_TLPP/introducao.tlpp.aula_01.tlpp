@@ -1,0 +1,11 @@
+#include 'totvs.ch'
+#include 'tlpp-core.th'
+
+//tlpp.environment.getIncludesTLPP
+//{Protheus.doc} aula_01
+
+User Function aula_01
+
+    local cVar := ''
+
+Return return_var

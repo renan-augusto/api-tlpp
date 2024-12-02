@@ -1,0 +1,20 @@
+#include 'totvs.ch'
+#include 'tlpp-core.th'
+
+
+/*/{Protheus.doc} AULA01
+    (long_description)
+    @type user function
+    @author Renan Augusto
+    @since 01/12/2024
+    @version version
+/*/
+User Function INTRODUCAO_AULA_01
+
+Return fwAlertInfo('U_INTRODUCAO_AULA_01')
+
+/*/{Protheus.doc} INTRODUCAO_AULA_01_SEQ_01
+/*/
+User Function INTRODUCAO_AULA_01_SEQ_01
+
+Return fwAlertInfo('U_INTRODUCAO_AULA_01_SEQ_01')
